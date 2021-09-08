@@ -1,7 +1,17 @@
 const Home = () => {
     return (
         <div>
-             Página Home
+            <header>
+                cabeçalho
+            </header>
+
+            <main>
+                conteúdo
+            </main>
+
+            <footer>
+                rodapé
+            </footer>  
         </div>
     )
 }
